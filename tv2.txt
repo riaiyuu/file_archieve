@@ -90,23 +90,22 @@ CCTV17,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265015/1.m3u
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8$订阅源-IPv6-1920x1080
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8$订阅源-IPv6-1920x1080
 CCTV17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/$订阅源-IPv6-1920x1080
-风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$订阅源
 
 电影频道,#genre#
+CHC影迷电影,http://58.19.38.162:9901/tsfile/live/0119_1.m3u8$订阅源
 CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=b9d9d0ba0208e949cf0736455b86290b2d1d2ff4727f523b7117dde6eb883cb4582c5ce1519685e57d54bfb562057c10a00dde58bb674d8600fd2d918b8cb440294e083e7b8f19e0dbcc9250d8$白名单
-CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1031_1.m3u8$订阅源
+CHC家庭影院,http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$白名单
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6-1920x1080
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6-1920x1080
+CHC动作电影,http://58.19.38.162:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 黑莓电影,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000004000019624/index.m3u8?channel-id=ystenlive&Contentid=1000000004000019624&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/1.m3u8$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8785669936177902664/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 黑莓电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000019624/1.m3u8$订阅源-IPv6-1920x1080
-靖天映画,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv055$订阅源
-靖天戏剧,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv058$订阅源
-经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 天龙八部,http://182.40.120.213/test-txdwk.flv.huya.com/src/1099531752675-1099531752675-86435783040303104-2199063628806-10057-A-0-1.m3u8$订阅源
 
 卫视频道,#genre#
@@ -234,7 +233,7 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 山西卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8$订阅源-IPv6-1920x1080
 山西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010114/1.m3u8$订阅源-IPv6-1920x1080
-山西卫视,http://222.134.245.16:9901/tsfile/live/0118_1.m3u8$订阅源
+山西卫视,http://222.169.85.8:9901/tsfile/live/0118_1.m3u8$订阅源
 陕西卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040017/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000006000040017$订阅源-IPv6-1920x1080
 陕西卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 陕西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000007495/1.m3u8$订阅源-IPv6-1920x1080
@@ -254,7 +253,6 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 三沙卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/5000000011000288016/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000288016$订阅源-IPv6-1920x1080
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$订阅源-IPv6-1920x1080
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/index.m3u8$订阅源-IPv6-1920x1080
-三沙卫视,http://139.129.231.228:3529/rtp/239.21.2.9:5002$组播源
 天津卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000006827/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 天津卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000265026/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265026&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 天津卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8$订阅源-IPv6-1920x1080
@@ -264,7 +262,6 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 西藏卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/6603041244077933770/1.m3u8?channel-id=bestzb&Contentid=6603041244077933770&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/6603041244077933770/1.m3u8$订阅源-IPv6-1920x1080
 西藏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010123/1.m3u8$订阅源-IPv6-1920x1080
-西藏卫视,http://itms4.sdlk.vip:6721/hls/244/index.m3u8$订阅源
 新疆卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000029441/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000029441$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 新疆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010116/index.m3u8$订阅源-IPv6-1920x1080
@@ -277,36 +274,18 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/810386443473066
 云南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/index.m3u8$订阅源-IPv6-1920x1080
 
 港澳台,#genre#
-凤凰资讯,http://cdn3.132.us.kg/live/fhzx/stream.m3u8$订阅源
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV$订阅源
-翡翠台,https://iptv.vip-tptv.xyz/cao.php?id=feicui$订阅源
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
-靖天资讯,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv065$订阅源
 
 国外频道,#genre#
-VOA美国之音,https://iptv.vip-tptv.xyz/litv.php?id=litv-ftv03$订阅源
 
 辽宁频道,#genre#
 
 AKTV,#genre#
-TVBS,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv073$订阅源
-TVBS-新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv072$订阅源
 中天亞洲台,http://ku9.fr.to/smt.php?id=ctiasia_twn$订阅源
-中天亞洲台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv109$订阅源
-中天新聞台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv009$订阅源
-中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1$订阅源
-中視,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv040$订阅源
 寰宇新聞台,http://ku9.fr.to/smt.php?id=huanyuxinwen_twn$订阅源
-寰宇新聞台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn14$订阅源
 日本全天新聞,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8$订阅源
 美亞電影台(HK),http://ku9.fr.to/smt.php?id=meiyamovie_twn$订阅源
-美亞電影台(HK),https://iptv.vip-tptv.xyz/tv.php?id=1$订阅源
-翡翠台,https://iptv.vip-tptv.xyz/cao.php?id=feicui$订阅源
-華視,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv041$订阅源
-靖天電影台,https://iptv.vip-tptv.xyz/litv.php?id=4gtv-4gtv061$订阅源
-龍華日韓台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn11$订阅源
-龍華經典台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn21$订阅源
-龍華電影台,https://iptv.vip-tptv.xyz/litv.php?id=litv-longturn03$订阅源
 Love Nature HD,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8$订阅源
 
 体育频道,#genre#
@@ -314,10 +293,9 @@ NewTV哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 NewTV哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/5320946857686967621/index.m3u8?channel-id=bestzb&Contentid=5320946857686967621&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$订阅源
 五星体育,http://39.134.136.161:6610/000000001000/2000000002000000007/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000002000000007$订阅源
-五星体育,http://139.196.151.191:7549/rtp/239.45.3.210:5140$组播源
 五星体育,http://139.196.151.191:6846/rtp/239.45.3.210:5140$组播源
-五星体育,http://223.166.234.9:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty$订阅源
+五星体育,http://139.196.151.191:7549/rtp/239.45.3.210:5140$组播源
+五星体育,http://139.196.151.191:3970/rtp/239.45.3.210:5140$组播源
 超级体育,http://[2409:8087:5e08:24::d]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8$订阅源-IPv6-1920x1080
 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/$订阅源-IPv6-1920x1080
@@ -325,14 +303,9 @@ NewTV哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/5320946857686
 超级体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/1.m3u8$订阅源-IPv6-1920x1080
 精品体育,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8$订阅源-IPv6-1920x1080
 精品体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8$订阅源-IPv6-1920x1080
-广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca$订阅源
+广州竞赛,http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8$订阅源
 广州竞赛,https://tencentplaywebsite.gztv.com/live/jingsai.m3u8?txSecret=cd5eb475078e689b230ada7df792e4de&txTime=193108637cb$订阅源
-山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8$订阅源
-山东体育,http://itms4.sdlk.vip:6721/hls/239/index.m3u8$订阅源
-山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
-山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
 睛彩篮球,http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8$订阅源-IPv6-1920x1080
 睛彩篮球,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8$订阅源-IPv6-1920x1080
@@ -340,9 +313,7 @@ NewTV哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/5320946857686
 睛彩篮球,http://39.134.136.161:6610/000000001000/1000000006000270002/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270002$订阅源
 睛彩广场舞,http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011524/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011524&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 睛彩广场舞,http://39.134.136.161:6610/000000001000/1000000006000270005/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000006000270005$订阅源
-风云足球,http://113.57.111.4:1111/tsfile/live/1033_1.m3u8$订阅源
 魅力足球,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$订阅源-IPv6-1920x1080
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq$订阅源
 快乐垂钓,http://[2409:8087:5e08:24::d]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 快乐垂钓,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 快乐垂钓,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -352,9 +323,6 @@ NewTV哒啵赛事,http://[2409:8087:5e00:24::1e]:6060/000000001000/5320946857686
 SITV动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8$订阅源-IPv6-1920x1080
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000010063/1.m3u8$订阅源-IPv6-1920x1080
 优漫卡通,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010118/1.m3u8$订阅源-IPv6-1920x1080
-优漫卡通,http://42.48.50.138:9002/tsfile/live/1006_1.m3u8$订阅源
-优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8$订阅源
-优漫卡通,http://139.129.231.228:3529/rtp/239.21.1.50:5002$组播源
 金鹰卡通,http://[2409:8087:5e08:24::d]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 金鹰卡通,http://[2409:8087:5e08:24::d]:6610/000000001000/1/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=YanG-1989$订阅源-IPv6-1920x1080
 金鹰卡通,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3$订阅源-IPv6-1920x1080
@@ -417,4 +385,3 @@ SITV动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/50000000110000
 游戏频道,#genre#
 NEWTV哒啵电竞,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000032327/index.m3u8?channel-id=bestzb&Contentid=1000000006000032327&livemode=1&stbId=3$订阅源-IPv6-1920x1080
 游戏风云,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/1.m3u8$订阅源-IPv6-1920x1080
-游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源
